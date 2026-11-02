@@ -613,12 +613,12 @@ if (ua.includes("Locket")) {
                 section: "🎨🎨🎨🎨🎨🎨",
                 items: [
                     {
-                        overlay_id: "caption:nca",
+                        overlay_id: "caption:li",
                         source: "remote",
                         caption: {
                             background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] },
                             max_lines: 1,
-                            text: "nguyencongan",
+                            text: "locket tu linh",
                             text_color: "#183153",
                             type: "static_content"
                         }
